@@ -6,7 +6,7 @@ A complete, self‑contained ITSM project built around **GLPI** to demonstrate r
 
 ![GLPI Dashboard](images/dashboard.png)
 
-![Auto-assigned Ticket](images/auto_assign.png)
+![Auto-assigned Ticket](images/auto-assigned.png)
 
 ## Technologies Used
 
